@@ -9,6 +9,7 @@ public class ClienteMainOperacionesSencillas {
 			arbol.insertar(new Entero(10));
 			arbol.insertar(new Entero(15));
 			arbol.insertar(new Entero(30));
+			arbol.insertar(new Entero(8));
 			arbol.insertar(new Entero(5));
 			arbol.insertar(new Entero(2));
 			arbol.insertar(new Entero(1));
